@@ -1,5 +1,3 @@
----
-
 Lightweight Attention System
 
 Welcome! This repository showcases a lightweight transformer system featuring a lightweight multi-head attention mechanism.
@@ -39,9 +37,4 @@ Share your results and improvements with me!
 Final Thoughts
 
 This is an early prototype, and the mathematical foundations might still need refinement. However, I hope you find it interesting and useful for your projects. Let’s collaborate and improve this lightweight attention system together!
-
-
----
-
-Caso precise de mais ajustes ou queira adicionar algo específico, é só me avisar!
 
